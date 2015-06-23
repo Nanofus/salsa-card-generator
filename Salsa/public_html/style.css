@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    vertical-align: baseline;
+    
+    width: 210mm;
+    height: 297mm;
+}
+
+.cardbase {
+    float: left;
+    width: 63mm;
+    height: 88mm;
+    background-color: #C0C0C0;
+    margin: 2mm;
+}
+
+.cardimage {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+        
+    width: 5.334cm;
+    height: 3.937cm;
+}

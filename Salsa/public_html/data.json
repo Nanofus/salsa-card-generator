@@ -1,6 +1,8 @@
 [
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Tawa",
+    "KUVA":"tawa.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Voit ohjata ??? tulevan PS-vahingon Tawaan. Jos teet niin, 4-5-6 ja vahinkoa ei tule",
@@ -9,7 +11,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Tawa ",
+    "KUVA":"tawa.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Nosta Nöpö. Voit nostaa Tawan psyyken maksimiinsa.",
@@ -18,7 +22,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Tawa",
+    "KUVA":"tawa.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Mielentilan laskija voi halutessaan laskea Tawan elämää",
@@ -27,7 +33,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Guardian",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"Aina kun Guardianin PS vähenisi, se vähenee 1 vähemmän",
@@ -36,7 +44,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Guardian",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -45,7 +55,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Guardian",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"Kortinnostossa 3-4-5-6 tai nostat yhden kortin vähemmän. Et voi saada N-pisteitä",
@@ -54,7 +66,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Visokki",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -63,7 +77,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Visokki",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"Voit siirtää jokaisen yksittäisen pelaajan hahmojen välillä 1PS per vuoro per pelaaja.",
@@ -72,7 +88,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Visokki",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"Pelaa avoimin kortein. Vastapelaajasi saavat kerran vuorossasi siirtää 1PS hahmoltasi toiselle.",
@@ -81,7 +99,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ämkoo",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -90,7 +110,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ämkoo",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -99,7 +121,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ämkoo",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -108,7 +132,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ämkoo",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -117,7 +143,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Umbra",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -126,7 +154,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Umbra",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"2N. Saat uuden vuoron heti tämän päätyttyä.",
@@ -135,7 +165,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Umbra",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -144,7 +176,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Same",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -153,7 +187,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Same",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -162,7 +198,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Same",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"Kaikki korttiesi maksut ovat yhden kalliimpia",
@@ -171,7 +209,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Bladis",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Voit kiinnittää Bladikseen rajattomasti aseita. Aina kun Bladikseen kiinnitetään ase, Bladis saa +1PS. Aseiden kiinnittäminen maksaa 1 vähemmän",
@@ -180,7 +220,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Bladis",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"Pelatessa ensimmäisen kerran: etsi pakastasi 2 asetta. Kiinnitä ne Bladikseen maksutta.",
@@ -189,7 +231,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Bladis",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"Psyyken laskija saa kaikilla vuoroillaan jakaa seikkailijoihisi 1E jokaista Bladikseen kiinnitettyä asetta kohden.",
@@ -198,7 +242,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Paaco",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Voit halutessasi tulkita seikkailijasi tukikohtalaisiksi ja toisinpäin ja/tai seikkailijasi ja tukikohtalaisesi samalle vyöhykkeelle.",
@@ -207,7 +253,9 @@
     "KYKY3":"0: []"
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Paaco",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -216,7 +264,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Paaco",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"Aina kun hahmo päätyy samalle vyöhykkeelle kuin Paaco: se hahmo -1PS ja [x]",
@@ -225,7 +275,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Make",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"XXX",
     "TEKSTI":"",
@@ -234,7 +286,9 @@
     "KYKY3":"A [x] ja -1PS Makeen: 2E"
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Make",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -243,7 +297,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Make",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -252,7 +308,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Dox",
+    "KUVA":"",
     "TERVEYS":"???",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -261,7 +319,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Dox",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -270,7 +330,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Dox",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -279,7 +341,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Keetongu",
+    "KUVA":"",
     "TERVEYS":"10",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -288,7 +352,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Keetongu",
+    "KUVA":"",
     "TERVEYS":"10",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -297,7 +363,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Keetongu",
+    "KUVA":"",
     "TERVEYS":"10",
     "PSYYKE":"6",
     "TEKSTI":"Poista kaikki ajoneuvosi. Et voi pelata ajoneuvoja",
@@ -306,7 +374,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Matoro",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Jos Matoro on seikkailemassa ja pelaat paikan: +1N. Matoro voi käyttää O-kykyjään liikkumisensa jälkeen",
@@ -315,7 +385,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Matoro",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -324,7 +396,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Matoro",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -333,7 +407,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kapura",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"",
@@ -342,7 +418,9 @@
     "KYKY3":"H: 2N Kapura -2PS"
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kapura",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"",
@@ -351,7 +429,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kapura",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"Vuoron lopussa: Poista käsi, [] korttien määrä -1",
@@ -360,7 +440,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Suga",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"6",
     "TEKSTI":"Aina kun Suga ottaa E-vahinkoa, valitsemasi seikkailijasi +1PS",
@@ -369,7 +451,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Suga",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -378,7 +462,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Suga",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"6",
     "TEKSTI":"Suga ei voi perääntyä.",
@@ -387,7 +473,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Killjoy",
+    "KUVA":"",
     "TERVEYS":"9",
     "PSYYKE":"3",
     "TEKSTI":"Pelatessa: Kiinnitä tähän korttiin 2 Ohjus-korttia ja 1 Monta ohjusta",
@@ -396,7 +484,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Killjoy",
+    "KUVA":"",
     "TERVEYS":"9",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -405,7 +495,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Killjoy",
+    "KUVA":"",
     "TERVEYS":"9",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -414,7 +506,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kepe",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -423,7 +517,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kepe",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -432,7 +528,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kepe",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -441,7 +539,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Snowie",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"3",
     "TEKSTI":"Jos Snowie on seikkailemassa ja pelaat liittolaiskortin: 4-5-6: +1N",
@@ -450,7 +550,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Snowie",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"3",
     "TEKSTI":"Aina kun hahmo tai apuri päätyy samalle vyöhykkeelle kuin Snowie: se hahmo tai apuri +1PS",
@@ -459,7 +561,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Snowie",
+    "KUVA":"",
     "TERVEYS":"8",
     "PSYYKE":"3",
     "TEKSTI":"Aina kun pelaat liittolaisen: 1-2-3-4, jaa muille hahmoillesi kuin Snowielle ja apureillesi yhteensä -1PS",
@@ -468,7 +572,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Domek",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Pelatessa: -2PS. ",
@@ -477,7 +583,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Domek",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -486,7 +594,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Domek",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Kukaan ei voi olla Domekin kanssa samalla vyöhykkeellä.",
@@ -495,7 +605,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Manu",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -504,7 +616,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Manu",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -513,7 +627,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Manu",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -522,7 +638,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Tehmut ja Telakan Jengi",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"5",
     "TEKSTI":"Voit kiinnittää Tehmutiin kolme kulkuneuvoa.",
@@ -531,7 +649,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Tehmut ja Telakan Jengi",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -540,7 +660,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Tehmut ja Telakan Jengi",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"",
     "TEKSTI":"Poista kaikki kulkuneuvot Tehmutilta. Omiin seikkailijoihin -2E kaikista ajoneuvoista Tehmutilla.",
@@ -549,7 +671,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Notfun",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"4",
     "TEKSTI":"Merellä: Jos muu pelaaja pelaa paikkakortin, heitä noppaa. Jos 4-5-6, paikkakortti menee poistopakkaan",
@@ -558,7 +682,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Notfun",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -567,7 +693,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Notfun",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -576,7 +704,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ruki",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -585,7 +715,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ruki",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -594,7 +726,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Ruki",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -603,7 +737,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Oraakkeli",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -612,7 +748,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Oraakkeli",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -621,7 +759,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Oraakkeli",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"Oraakkeli poistuu. Nollaa Nimda-pisteesi.",
@@ -630,7 +770,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Pyhä Äiti",
+    "KUVA":"",
     "TERVEYS":"4",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -639,7 +781,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Pyhä Äiti",
+    "KUVA":"",
     "TERVEYS":"4",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -648,7 +792,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Pyhä Äiti",
+    "KUVA":"",
     "TERVEYS":"4",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -657,7 +803,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Jäätutkija",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"XXX",
     "TEKSTI":"",
@@ -666,7 +814,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Jäätutkija",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -675,7 +825,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Jäätutkija",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -684,7 +836,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Warrek",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -693,7 +847,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Warrek",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -702,7 +858,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Warrek",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -711,7 +869,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Xen",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -720,7 +880,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Xen",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -729,7 +891,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Xen",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -738,7 +902,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kenraali",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Apureillasi on 1 E-piste enemmän ja ne tekevät yhden E-vahingon enemmän",
@@ -747,7 +913,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kenraali",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Saat kaksi L-etäisyyden taistelupaikkaa. ",
@@ -756,7 +924,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Kenraali",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -765,7 +935,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Amiraali",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -774,7 +946,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Amiraali",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -783,7 +957,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Amiraali",
+    "KUVA":"",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -792,7 +968,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Abzumo",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -801,7 +979,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Abzumo",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -810,7 +990,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Abzumo",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -819,7 +1001,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Gaggulabio",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Aina kun apurisi tekee vahinkoa, []. Jos kukaan ei kuole kierroksen aikana, Gaggulabio -1PS",
@@ -828,7 +1012,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Gaggulabio",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -837,7 +1023,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Gaggulabio",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -846,7 +1034,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Metorakk",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -855,7 +1045,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Metorakk",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -864,7 +1056,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Metorakk",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -873,7 +1067,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Amazua",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -882,7 +1078,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Amazua",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -891,7 +1089,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Amazua",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -900,7 +1100,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Flygel",
+    "KUVA":"",
     "TERVEYS":"???",
     "PSYYKE":"???",
     "TEKSTI":"",
@@ -909,7 +1111,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Flygel",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -918,7 +1122,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Flygel",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -927,7 +1133,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Zorak",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -936,7 +1144,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Zorak",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -945,7 +1155,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Zorak",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -954,7 +1166,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Purifier",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"5",
     "TEKSTI":"Kun Purifier kuolee, poista siihen kiinnitetyt kortit. Se palaa välittömästi pöytään samalle paikalle.",
@@ -963,7 +1177,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Purifier",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"5",
     "TEKSTI":"",
@@ -972,7 +1188,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Purifier",
+    "KUVA":"",
     "TERVEYS":"5",
     "PSYYKE":"5",
     "TEKSTI":"",
@@ -981,7 +1199,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Saraji",
+    "KUVA":"",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -990,7 +1210,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Saraji",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -999,7 +1221,9 @@
     "KYKY3":""
   },
   {
+    "TYYPPI":"Hahmo",
     "NIMI":"Saraji",
+    "KUVA":"",
     "TERVEYS":"",
     "PSYYKE":"",
     "TEKSTI":"",
