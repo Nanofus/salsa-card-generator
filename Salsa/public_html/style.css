@@ -10,12 +10,24 @@ body {
     height: 297mm;
 }
 
+h1 {
+    font-size: 120%;
+    font-weight: bold;
+}
+
 .cardbase {
     float: left;
     width: 63mm;
     height: 88mm;
     background-color: #C0C0C0;
-    margin: 2mm;
+    margin: 1mm;
+    padding: 2mm;
+    
+    font-size: 70%;
+}
+
+.text {
+    padding: 2mm;
 }
 
 .cardimage {
