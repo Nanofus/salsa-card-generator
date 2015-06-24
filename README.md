@@ -1,5 +1,5 @@
 # salsa-card-template
-Angular app to create card templates for the card game "Salsa". Can also be used as an example for using an Angular app as a card game card generator.
+Angular app to generate cards for the card game "Salsa" from spreadsheet data. Can also be used as an example for using an Angular app as a card game card generator.
 
 ## Usage
 Install Angular with npm first!
