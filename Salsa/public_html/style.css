@@ -1,3 +1,8 @@
+@font-face {
+    font-family: textbody;
+    src: url(fonts/Electrolize-Regular.ttf);
+}
+
 body {
     margin: 0;
     padding: 0;
@@ -5,14 +10,30 @@ body {
     font-size: 100%;
     font: inherit;
     vertical-align: baseline;
-    
+
     width: 210mm;
     height: 297mm;
 }
 
 h1 {
-    font-size: 120%;
+    font-size: 165%;
     font-weight: bold;
+    font-family: textbody;
+    color: #FFFFFF;
+    word-wrap: break-word;
+    text-transform: uppercase;
+}
+
+.title {
+    width: 62mm;
+    height: 15mm;
+
+    position: relative;
+    text-align: right;
+    top: 6.5mm;
+
+    display: table-cell;
+    vertical-align: middle;
 }
 
 .cardbase {
@@ -21,7 +42,7 @@ h1 {
     height: 3.74in;
     background-size: 2.74in 3.74in;
     background-color: #C0C0C0;
-    
+
     font-size: 70%;
 }
 
@@ -33,7 +54,7 @@ h1 {
     display: block;
     margin-left: auto;
     margin-right: auto;
-        
+
     width: 5.334cm;
     height: 3.937cm;
 }
