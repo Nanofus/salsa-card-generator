@@ -1,4 +1,4 @@
-# salsa-card-template
+# salsa-card-generator
 Angular app to generate cards for the card game "Salsa" from spreadsheet data. Can also be used as an example for using an Angular app as a card game card generator.
 
 ## Usage
