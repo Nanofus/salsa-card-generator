@@ -8,3 +8,8 @@ Install Angular with npm first!
 2. Convert your CSV to JSON. (Use [this](http://www.convertcsv.com/csv-to-json.htm), for example. Set "First row is column names" to true.)
 3. Save the data as `data.json` in the `public_html` folder
 4. Open `index.html` and tweak the javascript and css to suit your needs.
+
+## Other info
+
+- Background image size: 822 x 1122 px (including borders as seen in the examples)
+- Image size: 564 x 400 px
