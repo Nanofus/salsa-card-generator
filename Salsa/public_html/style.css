@@ -43,11 +43,22 @@ h1 {
     background-size: 2.74in 3.74in;
     background-color: #C0C0C0;
 
-    font-size: 70%;
+    font-size: 75%;
 }
 
 .text {
+    position: relative;
+    top: 0mm;
+    left: 6mm;
+    
+    width: 49mm;
+    
     padding: 2mm;
+    
+    word-wrap: break-word;
+    
+    display: table-cell;
+    vertical-align: middle;
 }
 
 .cardimage {
