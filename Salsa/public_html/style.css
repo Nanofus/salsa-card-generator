@@ -48,7 +48,7 @@ h1 {
 
 .text {
     position: relative;
-    top: 0mm;
+    top: 5.5mm;
     left: 6mm;
     
     width: 49mm;
@@ -62,10 +62,10 @@ h1 {
 }
 
 .cardimage {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position: relative;
+    top: 3.65mm;
+    left: 15.8mm;
 
-    width: 5.334cm;
-    height: 3.937cm;
+    width: 48.5mm;
+    height: 34.5mm;
 }
