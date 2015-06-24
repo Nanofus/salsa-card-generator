@@ -13,4 +13,4 @@ Install Angular with npm first!
 ## Other info
 
 - Background image size: 822 x 1122 px (including borders as seen in the examples)
-- Image size: 564 x 400 px
+- Card image size: 564 x 400 px
