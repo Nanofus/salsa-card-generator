@@ -17,11 +17,10 @@ h1 {
 
 .cardbase {
     float: left;
-    width: 63mm;
-    height: 88mm;
+    width: 2.74in;
+    height: 3.74in;
+    background-size: 2.74in 3.74in;
     background-color: #C0C0C0;
-    margin: 1mm;
-    padding: 2mm;
     
     font-size: 70%;
 }
