@@ -10,12 +10,21 @@
     </head>
     <body ng-controller="MainController">
         <div ng-repeat="card in cards">
-            <div class="cardbase" style="background-image: url('images/backg/ajoneuvo.png')">
+            <div class="cardbase" ng-style="{'background-image': 'url(images/backg/' + card.TAUSTA +')'}">
                 <div class="title">
-                    <h1>{{card.NIMI}}</h1>
+                    <h1 ng-show="card.KUVA !== 'jäätutkijahyvä.png'">{{card.NIMI}}</h1>
+                    <h1 ng-show="card.KUVA === 'jäätutkijahyvä.png'" style="color: black">{{card.NIMI}}</h1>
+                </div>
+                <div class="stats">
+                    <p class="statTerveys" ng-show="card.NIMI !== 'Keetongu' && card.NIMI !== 'Purifier'">{{card.TERVEYS}}</p>
+                    <p class="statTerveys statTwoNumbers" ng-show="card.NIMI === 'Keetongu'">{{card.TERVEYS}}</p>
+                    <p class="statTerveys statThreeNumbersTerveys" ng-show="card.NIMI === 'Purifier'">{{card.TERVEYS}}</p>
+                    <p class="statPsyyke" ng-show="card.NIMI !== 'Purifier'">{{card.PSYYKE}}</p>
+                    <p class="statPsyyke statThreeNumbersPsyyke" ng-show="card.NIMI === 'Purifier'">{{card.TERVEYS}}</p>
                 </div>
                 <div class="image">
-                    <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimage">
+                    <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageCharacter" ng-show="card.TYYPPI==='Hahmo' || card.TYYPPI==='HahmoHyvä' || card.TYYPPI==='HahmoNormaali' || card.TYYPPI==='HahmoHuono'">
+                    <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageOther" ng-show="card.TYYPPI!=='Hahmo' && card.TYYPPI!=='HahmoHyvä' && card.TYYPPI!=='HahmoNormaali' && card.TYYPPI!=='HahmoHuono'">
                 </div>
                 <div class="text">
                     <div class="rulestext">

@@ -1,8 +1,9 @@
 [
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Tawa",
     "KUVA":"tawanormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Voit ohjata ??? tulevan PS-vahingon Tawaan. Jos teet niin, 4-5-6 ja vahinkoa ei tule",
@@ -14,9 +15,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Tawa ",
     "KUVA":"tawahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Nosta Nöpö. Voit nostaa Tawan psyyken maksimiinsa.",
@@ -28,12 +30,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Tawa",
     "KUVA":"tawahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
-    "TEKSTI":"Mielentilan laskija voi halutessaan laskea Tawan elämää",
+    "TEKSTI":"Mielentilan laskija voi halutessaan laskea Tawan elämää. JOKU NIMDAJUTTU",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -42,9 +45,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Guardian",
     "KUVA":"guardiannormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"Aina kun Guardianin PS vähenisi, se vähenee 1 vähemmän",
@@ -56,9 +60,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Guardian",
     "KUVA":"guardianhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -70,9 +75,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Guardian",
     "KUVA":"guardianhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"Kortinnostossa 3-4-5-6 tai nostat yhden kortin vähemmän. Et voi saada N-pisteitä",
@@ -84,9 +90,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Visokki",
     "KUVA":"visokkinormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -98,9 +105,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Visokki",
     "KUVA":"visokkihyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"Voit siirtää jokaisen yksittäisen pelaajan hahmojen välillä 1PS per vuoro per pelaaja.",
@@ -112,9 +120,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Visokki",
     "KUVA":"visokkihuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"Pelaa avoimin kortein. Vastapelaajasi saavat kerran vuorossasi siirtää 1PS hahmoltasi toiselle.",
@@ -126,9 +135,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Ämkoo",
     "KUVA":"ämkoonormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -140,9 +150,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Ämkoo",
     "KUVA":"ämkoohyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Voit koska tahansa (myös vastaiskuna) sekoittaa Ämkoon pakkaasi. Jos teet niin, +4N",
@@ -154,9 +165,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Ämkoo",
     "KUVA":"ämkoohuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -171,6 +183,7 @@
     "TYYPPI":"Hahmo",
     "NIMI":"Ämkoo",
     "KUVA":"ämkooyuurei.png",
+    "TAUSTA":"amkoo_4.png",
     "TERVEYS":"9",
     "PSYYKE":"1",
     "TEKSTI":"",
@@ -182,9 +195,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Umbra",
     "KUVA":"umbranormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -196,9 +210,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Umbra",
     "KUVA":"umbrahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"2N. Saat uuden vuoron heti tämän päätyttyä.",
@@ -210,9 +225,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Umbra",
     "KUVA":"umbrahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -224,9 +240,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Same",
     "KUVA":"samenormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -238,9 +255,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Same",
     "KUVA":"samehyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -252,9 +270,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Same",
     "KUVA":"samehuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"6",
     "TEKSTI":"Kaikki korttiesi maksut ovat yhden kalliimpia",
@@ -266,9 +285,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Bladis",
     "KUVA":"bladisnormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Voit kiinnittää Bladikseen rajattomasti aseita. Aina kun Bladikseen kiinnitetään ase, Bladis saa +1PS. Aseiden kiinnittäminen maksaa 1 vähemmän",
@@ -280,9 +300,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Bladis",
     "KUVA":"bladishyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"Pelatessa ensimmäisen kerran: etsi pakastasi 2 asetta. Kiinnitä ne Bladikseen maksutta.",
@@ -294,9 +315,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Bladis",
     "KUVA":"bladishuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"",
     "TEKSTI":"Psyyken laskija saa kaikilla vuoroillaan jakaa seikkailijoihisi 1E jokaista Bladikseen kiinnitettyä asetta kohden.",
@@ -308,9 +330,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Paaco",
     "KUVA":"paaconormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Voit halutessasi tulkita seikkailijasi tukikohtalaisiksi ja toisinpäin ja/tai seikkailijasi ja tukikohtalaisesi samalle vyöhykkeelle.",
@@ -322,9 +345,10 @@
     "KYKY3":"0: []"
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Paaco",
     "KUVA":"paacohyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"",
@@ -336,9 +360,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Paaco",
     "KUVA":"paacohuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"6",
     "PSYYKE":"",
     "TEKSTI":"Aina kun hahmo päätyy samalle vyöhykkeelle kuin Paaco: se hahmo -1PS ja [x]",
@@ -350,9 +375,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Make",
     "KUVA":"makenormaali.png",
+    "TAUSTA":"make_2.png",
     "TERVEYS":"8",
     "PSYYKE":"2",
     "TEKSTI":"",
@@ -364,9 +390,10 @@
     "KYKY3":"A [x] ja -1PS Makeen: 2E"
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Make",
     "KUVA":"makehyvä.png",
+    "TAUSTA":"make_3.png",
     "TERVEYS":"9",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -378,9 +405,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Make",
     "KUVA":"makehuono.png",
+    "TAUSTA":"make_1.png",
     "TERVEYS":"9",
     "PSYYKE":"4",
     "TEKSTI":"Vuoron lopussa: siirrä Make sille sektorille, jossa on eniten hahmojasi ja apureitasi. Se ei vie paikkaa, mutta on teknisesti ottaen L-etäisyydellä. Kaikki sen vyöhykkeen omat hahmosi -2E ja apurisi -1E ",
@@ -392,9 +420,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Keetongu",
     "KUVA":"keetongunormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"10",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -406,9 +435,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Keetongu",
     "KUVA":"keetonguhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"10",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -420,9 +450,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Keetongu",
     "KUVA":"keetonguhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"10",
     "PSYYKE":"6",
     "TEKSTI":"Poista kaikki ajoneuvosi. Et voi pelata ajoneuvoja",
@@ -434,9 +465,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Matoro",
     "KUVA":"matoronormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Jos Matoro on seikkailemassa ja pelaat paikan: +1N. Matoro voi käyttää O-kykyjään liikkumisensa jälkeen",
@@ -448,9 +480,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Matoro",
     "KUVA":"matorohyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -462,9 +495,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Matoro",
     "KUVA":"matorohuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Siirrä kaikki Nimdan sirusi Matorolle. Aina, kun joku pelaaja saa N-pisteitä, Matoro -1PS tai jaa Matoron kanssa samalla vyöhykkeellä olevien hahmojen kesken 2 E-vahinkoa. Kun Matoron PS on -8, Nimdan sirusi palaavat löytämättömiksi.",
@@ -476,9 +510,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Kapura",
     "KUVA":"kapuranormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"",
@@ -490,9 +525,10 @@
     "KYKY3":"H: 2N Kapura -2PS"
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Kapura",
     "KUVA":"kapurahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"",
@@ -504,9 +540,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Kapura",
     "KUVA":"kapurahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"Vuoron lopussa: Poista käsi, [] korttien määrä -1",
@@ -518,9 +555,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Suga",
     "KUVA":"suganormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"9",
     "PSYYKE":"6",
     "TEKSTI":"Aina kun Suga ottaa E-vahinkoa, valitsemasi seikkailijasi +1PS",
@@ -532,9 +570,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Suga",
     "KUVA":"sugahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"9",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -546,9 +585,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Suga",
     "KUVA":"sugahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"9",
     "PSYYKE":"6",
     "TEKSTI":"Suga ei voi perääntyä.",
@@ -560,9 +600,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Killjoy",
     "KUVA":"killjoynormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"9",
     "PSYYKE":"3",
     "TEKSTI":"Pelatessa: Kiinnitä tähän korttiin 2 Ohjus-korttia ja 1 Monta ohjusta",
@@ -574,9 +615,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Killjoy",
     "KUVA":"killjoyhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"9",
     "PSYYKE":"3",
     "TEKSTI":"Aina, kun Killjoyssa ei ole kiinni Ohjus-kortteja tai Monta ohjusta, kiinnitä Killjoyhyn 2 Ohjus-korttia ja 1 Monta ohjusta",
@@ -588,9 +630,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Killjoy",
     "KUVA":"killjoyhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"9",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -602,12 +645,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Kepe",
     "KUVA":"kepenormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
-    "TEKSTI":"",
+    "TEKSTI":"Aina kun pelaat esineen +1N.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -616,9 +660,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Kepe",
     "KUVA":"kepehyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -630,9 +675,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Kepe",
     "KUVA":"kepehuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -644,9 +690,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Snowie",
     "KUVA":"snowienormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"8",
     "PSYYKE":"3",
     "TEKSTI":"Jos Snowie on seikkailemassa ja pelaat liittolaiskortin: 4-5-6: +1N",
@@ -658,9 +705,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Snowie",
     "KUVA":"snowiehyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"8",
     "PSYYKE":"3",
     "TEKSTI":"Aina kun hahmo tai apuri päätyy samalle vyöhykkeelle kuin Snowie: se hahmo tai apuri +1PS",
@@ -672,9 +720,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Snowie",
     "KUVA":"snowiehuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"8",
     "PSYYKE":"3",
     "TEKSTI":"Aina kun pelaat liittolaisen: 1-2-3-4, jaa muille hahmoillesi kuin Snowielle ja apureillesi yhteensä -1PS",
@@ -686,9 +735,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Domek",
     "KUVA":"domeknormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Pelatessa: -2PS. ",
@@ -700,9 +750,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Domek",
     "KUVA":"domekhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -714,9 +765,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Domek",
     "KUVA":"domekhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Kukaan ei voi olla Domekin kanssa samalla vyöhykkeellä.",
@@ -728,9 +780,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Manu",
     "KUVA":"manunormaali.png",
+    "TAUSTA":"makuta_2.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"Makutan mieli. Pelatessa: +1N",
@@ -742,23 +795,25 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Manu",
     "KUVA":"manuhyvä.png",
+    "TAUSTA":"makuta_3.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"Makutan mieli.",
     "KYKY1 NIMI":"",
-    "KYKY1":"O: Siirrä Manuun kiinnitetyt kortit kohdehahmoosi. Sama hahmo -2PS. Sekoita Manu pakkaasi. +4N",
+    "KYKY1":"O: Siirrä Manuun kiinnitetyt kortit kohdehahmoosi. Sama hahmo -2PS. Sekoita Manu pakkaasi. +3N",
     "KYKY2 NIMI":"",
     "KYKY2":"",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Manu",
     "KUVA":"manuhuono.png",
+    "TAUSTA":"makuta_1.png",
     "TERVEYS":"4",
     "PSYYKE":"2",
     "TEKSTI":"Makutan mieli. Pelatessa: []",
@@ -770,12 +825,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Tehmut ja Telakan Jengi",
+    "TYYPPI":"HahmoNormaali",
+    "NIMI":"Telakan jengi",
     "KUVA":"tehmutnormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"5",
     "PSYYKE":"5",
-    "TEKSTI":"Voit kiinnittää Tehmutiin kolme kulkuneuvoa.",
+    "TEKSTI":"Voit kiinnittää Telakan jengiin kolme kulkuneuvoa.",
     "KYKY1 NIMI":"",
     "KYKY1":"H: [][x]",
     "KYKY2 NIMI":"",
@@ -784,9 +840,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Tehmut ja Telakan Jengi",
+    "TYYPPI":"HahmoHyvä",
+    "NIMI":"Telakan jengi",
     "KUVA":"tehmuthyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"5",
     "PSYYKE":"5",
     "TEKSTI":"",
@@ -798,12 +855,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Tehmut ja Telakan Jengi",
+    "TYYPPI":"HahmoHuono",
+    "NIMI":"Telakan jengi",
     "KUVA":"tehmuthuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"5",
     "PSYYKE":"5",
-    "TEKSTI":"Poista kaikki kulkuneuvot Tehmutilta. Omiin seikkailijoihin -2E kaikista ajoneuvoista Tehmutilla.",
+    "TEKSTI":"Poista kaikki kulkuneuvot Telakan jengiltä. Omiin seikkailijoihin -2E kaikista ajoneuvoista Telakan jengillä.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -812,9 +870,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Notfun",
     "KUVA":"notfunnormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"5",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -826,9 +885,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Notfun",
     "KUVA":"notfunhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"5",
     "PSYYKE":"3",
     "TEKSTI":"Merellä: jos joku pelaaja yrittää pelata paikkakortin, heitä noppaa. 4-5-6: paikkakortti menee suoraan poistopakkaan",
@@ -840,9 +900,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Notfun",
     "KUVA":"notfunhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"5",
     "PSYYKE":"3",
     "TEKSTI":"Psyyken laskija saa 4 apuria tai kaksi kerran kehitettyä apuria pakkansa päältä. Jaa joka vuoro omiin seikkailijoihisi -1PS",
@@ -854,11 +915,12 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Ruki",
     "KUVA":"rukinormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"6",
-    "PSYYKE":"???",
+    "PSYYKE":"4",
     "TEKSTI":"",
     "KYKY1 NIMI":"",
     "KYKY1":"",
@@ -868,11 +930,12 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Ruki",
     "KUVA":"rukihyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"6",
-    "PSYYKE":"",
+    "PSYYKE":"4",
     "TEKSTI":"",
     "KYKY1 NIMI":"",
     "KYKY1":"",
@@ -882,11 +945,12 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Ruki",
     "KUVA":"rukihuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"6",
-    "PSYYKE":"",
+    "PSYYKE":"4",
     "TEKSTI":"",
     "KYKY1 NIMI":"",
     "KYKY1":"",
@@ -896,9 +960,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Oraakkeli",
     "KUVA":"oraakkelinormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -910,9 +975,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Oraakkeli",
     "KUVA":"oraakkelihyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"",
@@ -924,9 +990,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Oraakkeli",
     "KUVA":"oraakkelihuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"5",
     "PSYYKE":"6",
     "TEKSTI":"Oraakkeli poistuu. Nollaa Nimda-pisteesi.",
@@ -938,40 +1005,43 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Pyhä Äiti",
     "KUVA":"pyhääiti.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"4",
     "PSYYKE":"~",
-    "TEKSTI":"",
+    "TEKSTI":"Aina kun saat N-pisteitä, saat +1N",
     "KYKY1 NIMI":"",
-    "KYKY1":"",
+    "KYKY1":"H: Jos hahmosi mielentila on 1PS päässä mielentilan nostosta, se hahmo saa +1PS",
     "KYKY2 NIMI":"",
     "KYKY2":"",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Jäätutkija",
     "KUVA":"jäätutkijanormaali.png",
+    "TAUSTA":"jaatutkija_2.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Kun joudut jakamaan PS-vahinkoa seikkailijoidesi tai tukikohtalaistesi kesken, et voi valita Jäätutkijaa, ellei se ole ainoa vaihtoehto.",
     "KYKY1 NIMI":"",
     "KYKY1":"A: jos 3-4-5-6, kohde ei voi käyttää aktiivisia kykyjään tai liikkua seuraavalla vuorollaan.",
     "KYKY2 NIMI":"",
-    "KYKY2":"H: []",
+    "KYKY2":"H: [] Sen jälkeen katso kaksi pakkasi päällimmäistä korttia ja järjestä ne haluamallasi tavalla.",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Jäätutkija",
     "KUVA":"jäätutkijahyvä.png",
+    "TAUSTA":"jaatutkija_3.png",
     "TERVEYS":"6",
     "PSYYKE":"8",
-    "TEKSTI":"",
+    "TEKSTI":"Pelatessa: Saat kaikki pelissä olevat apurit puolellesi. Jos sait 5 tai vähemmän apuria, tee muiden pelaajien pakkojen päällimmäisistä korteista kehittämättömiä apureita, kunnes saamiesi apurien määrä on 6. Saat valita pelaajat, joiden pakoista apurit teet.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -980,23 +1050,25 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Jäätutkija",
     "KUVA":"jäätutkijahuono.png",
+    "TAUSTA":"jaatutkija_1.png",
     "TERVEYS":"6",
     "PSYYKE":"8",
-    "TEKSTI":"Pelatessa: Saat kaikki pelissä olevat apurit puolellesi. Jos sait 5 tai vähemmän apuria, tee muiden pelaajien pakkojen päällimmäisistä korteista kehittämättömiä apureita, kunnes saamiesi apurien määrä on 6. Saat valita pelaajat, joiden pakoista apurit teet.",
+    "TEKSTI":"\n",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
-    "KYKY2":"",
+    "KYKY2":"H: Jäätutkija +1PS",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Tucokk",
     "KUVA":"warreknormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Pelkkään Tucokkiin ei voi kohdistaa ulkopuolisia vaikutuksia.",
@@ -1008,9 +1080,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Warrek",
     "KUVA":"warrekhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Tucokkin kyvyt tai O-kyvyt eivät toimi.",
@@ -1022,9 +1095,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Warrek",
     "KUVA":"warrekhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1036,9 +1110,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Kenraali",
     "KUVA":"kenraalinormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Apureillasi on 1 E-piste enemmän ja ne tekevät yhden E-vahingon enemmän",
@@ -1050,9 +1125,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Kenraali",
     "KUVA":"kenraalihyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Saat kaksi ylimääräistä L-etäisyyden paikkaa.",
@@ -1064,9 +1140,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Kenraali",
     "KUVA":"kenraalihuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Pelatessa: jaa hahmojesi kesken apureidesi verran E-vahinkoa. Poista apurisi.",
@@ -1078,23 +1155,25 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Amiraali",
     "KUVA":"amiraalinormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"",
     "KYKY1 NIMI":"",
-    "KYKY1":"",
+    "KYKY1":"O: [x][x][x] seikkailija -3E tai merellä [x] seikkailija -3E",
     "KYKY2 NIMI":"",
-    "KYKY2":"O: [x][x][x] seikkailija -3E tai merellä [x] seikkailija -3E",
+    "KYKY2":"",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Amiraali",
     "KUVA":"amiraalihyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Pelatessa: valitse kohdeseikkailija. Se ei voi liikkua tai käyttää aktiivisia kykyjään, kunnes Amiraalin mielentila laskee tai Amiraali poistuu pöydästä.",
@@ -1106,9 +1185,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Amiraali",
     "KUVA":"amiraalihuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"6",
     "PSYYKE":"4",
     "TEKSTI":"Hahmojesi passiiviset kyvyt eivät toimi, ellei vasemmalla puolellasi istuva pelaaja niin tahdo.",
@@ -1120,9 +1200,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Abzumo",
     "KUVA":"abzumonormaali.png",
+    "TAUSTA":"makuta_2.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"Makutan mieli.",
@@ -1134,9 +1215,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Abzumo",
     "KUVA":"abzumohyvä.png",
+    "TAUSTA":"makuta_3.png",
     "TERVEYS":"7",
     "PSYYKE":"2",
     "TEKSTI":"Makutan mieli.",
@@ -1148,9 +1230,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Abzumo",
     "KUVA":"abzumohuono.png",
+    "TAUSTA":"makuta_1.png",
     "TERVEYS":"4",
     "PSYYKE":"2",
     "TEKSTI":"Makutan mieli. Tapa X omaa apuriasi samalta vyöhykkeeltä. Vähennä X:ltä omalta seikkailij",
@@ -1162,9 +1245,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Gaggulabio",
     "KUVA":"gaggulabionormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Aina kun apurisi tekee vahinkoa, []. Jos kukaan ei kuole kierroksen aikana, Gaggulabio -1PS",
@@ -1176,12 +1260,28 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Gaggulabio",
     "KUVA":"gaggulabiohyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
+    "KYKY1 NIMI":"",
+    "KYKY1":"H: X[X]. Muut pelaatajat X+1[X]",
+    "KYKY2 NIMI":"",
+    "KYKY2":"",
+    "KYKY3 NIMI":"",
+    "KYKY3":""
+  },
+  {
+    "TYYPPI":"HahmoHuono",
+    "NIMI":"Gaggulabio",
+    "KUVA":"gaggulabiohuono.png",
+    "TAUSTA":"hahmo_1.png",
+    "TERVEYS":"7",
+    "PSYYKE":"4",
+    "TEKSTI":"Sinulla ei voi olla käsikortteja vuoron lopussa.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -1190,23 +1290,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Gaggulabio",
-    "KUVA":"gaggulabiohuono.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"H: X[X]. Muute pelaatajat X+1[X]",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
-  },
-  {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Metorakk",
     "KUVA":"metorakknormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1218,9 +1305,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Metorakk",
     "KUVA":"metorakkhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"Aina kun Metorakk tappaa hahmon tai apurin, se saa käyttää aktiivista kykyä uudestaan.",
@@ -1232,12 +1320,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Metorakk",
     "KUVA":"metorakkhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
-    "TEKSTI":"",
+    "TEKSTI":"Metorakk poistuu. Samalla vyöhykkeellä olevat omat hahmot ja apurit -2E.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -1246,12 +1335,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Amazua",
     "KUVA":"amazuanormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
-    "TEKSTI":"",
+    "TEKSTI":"Voit kerran vuorossa paljastaa kädestäsi ase-kortin. Pelaa vuoro kuin se olisi kiinnitettynä Amazuaan.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -1260,9 +1350,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Amazua",
     "KUVA":"amazuahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1274,9 +1365,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Amazua",
     "KUVA":"amazuahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1288,26 +1380,28 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Purifier",
     "KUVA":"purifiernormaali.png",
-    "TERVEYS":"5",
-    "PSYYKE":"5",
+    "TAUSTA":"hahmo_2.png",
+    "TERVEYS":"4+X",
+    "PSYYKE":"4-X",
     "TEKSTI":"Kun Purifier kuolee, poista siihen kiinnitetyt kortit. Se palaa välittömästi pöytään samalle paikalle ja X + 1. (X kertoo, kuinka monesti Purifier on kuollut.)",
     "KYKY1 NIMI":"",
-    "KYKY1":"",
+    "KYKY1":"L: 1+XPS",
     "KYKY2 NIMI":"",
-    "KYKY2":"",
+    "KYKY2":"A: 1+XE",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Purifier",
     "KUVA":"purifierhyvä.png",
-    "TERVEYS":"5",
-    "PSYYKE":"5",
-    "TEKSTI":"",
+    "TAUSTA":"hahmo_3.png",
+    "TERVEYS":"4+X",
+    "PSYYKE":"4-X",
+    "TEKSTI":"Aseet maksavat sinulle 1 vähemmän. Aina kun pelaat liittolaisen, tukikohtalainen +1PS",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -1316,12 +1410,13 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Purifier",
     "KUVA":"purifierhuono.png",
-    "TERVEYS":"5",
-    "PSYYKE":"5",
-    "TEKSTI":"",
+    "TAUSTA":"hahmo_1.png",
+    "TERVEYS":"4+X",
+    "PSYYKE":"4-X",
+    "TEKSTI":"Jokaisen vuorosi alussa: kaikki tukikohtalaisesi -XPS",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -1330,9 +1425,25 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Zorak",
-    "KUVA":"zoraknormaali.png",
+    "KUVA":"zmanormaali.png",
+    "TAUSTA":"hahmo_2.png",
+    "TERVEYS":"7",
+    "PSYYKE":"3",
+    "TEKSTI":"Apureillasi on äärettömästi PS. Apurisi kehittyvät tuplana.",
+    "KYKY1 NIMI":"",
+    "KYKY1":"L: [x] 1E",
+    "KYKY2 NIMI":"",
+    "KYKY2":"",
+    "KYKY3 NIMI":"",
+    "KYKY3":""
+  },
+  {
+    "TYYPPI":"HahmoHyvä",
+    "NIMI":"Zorak",
+    "KUVA":"zmahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -1344,9 +1455,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Zorak",
-    "KUVA":"zorakhyvä.png",
+    "KUVA":"zmahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"3",
     "TEKSTI":"",
@@ -1358,23 +1470,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Zorak",
-    "KUVA":"zorakhuono.png",
-    "TERVEYS":"7",
-    "PSYYKE":"3",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
-  },
-  {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Sheelika",
     "KUVA":"sheelikanormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1386,9 +1485,10 @@
     "KYKY3":"H: [x][x] Etsi valitsemasi pelaajan pakasta ase, esine tai kulkuneuvo ja sekoita se pakka tai ota seikkailijaan kiinnitetty ase, esine tai kulkuneuvo käteesi"
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Sheelika",
     "KUVA":"sheelikahyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1400,9 +1500,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Sheelika",
     "KUVA":"sheelikahuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"4",
     "TEKSTI":"",
@@ -1414,9 +1515,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Flygel",
     "KUVA":"flygelnormaali.png",
+    "TAUSTA":"hahmo_2.png",
     "TERVEYS":"7",
     "PSYYKE":"5",
     "TEKSTI":"",
@@ -1425,15 +1527,16 @@
     "KYKY2 NIMI":"",
     "KYKY2":"H: Vaihda kahden seikkailijan paikkaa",
     "KYKY3 NIMI":"",
-    "KYKY3":"H: Vaihda kahden pelaajan "
+    "KYKY3":"H: Vaihda kahden pelaajan pakkojen päällimmäisiä kortteja. 4-5-6 []"
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Flygel",
     "KUVA":"flygelhyvä.png",
+    "TAUSTA":"hahmo_3.png",
     "TERVEYS":"7",
     "PSYYKE":"5",
-    "TEKSTI":"",
+    "TEKSTI":"Jos Flygeliin ei vaikutettu viime vuorosi jälkeen: [] tai seikkailija +1E tai seikkailija +1PS tai +1N. Jos taas vaikutettiin, Flygel -2PS",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
@@ -1442,9 +1545,10 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Flygel",
     "KUVA":"flygelhuono.png",
+    "TAUSTA":"hahmo_1.png",
     "TERVEYS":"7",
     "PSYYKE":"5",
     "TEKSTI":"",
@@ -1456,39 +1560,42 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoNormaali",
     "NIMI":"Zairyh",
     "KUVA":"zairyhnormaali.png",
-    "TERVEYS":"",
-    "PSYYKE":"",
+    "TAUSTA":"hahmo_2.png",
+    "TERVEYS":"5",
+    "PSYYKE":"5",
     "TEKSTI":"Et voi kiinnittää Zairyhiin aseita tai kulkuneuvoja. Jokaisen vuorosi alussa Zairyh +1E.",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
-    "KYKY2":"",
+    "KYKY2":"O: Muuta haluamasi määrä Zairyhin E-pisteitä PS-pisteiksi tai PS-pisteitä E-pisteiksi.",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHyvä",
     "NIMI":"Zairyh",
     "KUVA":"zairyhhyvä.png",
-    "TERVEYS":"",
-    "PSYYKE":"",
+    "TAUSTA":"hahmo_3.png",
+    "TERVEYS":"5",
+    "PSYYKE":"5",
     "TEKSTI":"",
     "KYKY1 NIMI":"",
     "KYKY1":"",
     "KYKY2 NIMI":"",
-    "KYKY2":"",
+    "KYKY2":"H: Käytä minkä tahansa seikkailijan mitä tahansa aktiivista kykyä haluamaasi kohteeseen.",
     "KYKY3 NIMI":"",
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
+    "TYYPPI":"HahmoHuono",
     "NIMI":"Zairyh",
     "KUVA":"zairyhhuono.png",
-    "TERVEYS":"",
-    "PSYYKE":"",
+    "TAUSTA":"hahmo_1.png",
+    "TERVEYS":"5",
+    "PSYYKE":"5",
     "TEKSTI":"",
     "KYKY1 NIMI":"",
     "KYKY1":"",
@@ -1498,129 +1605,1092 @@
     "KYKY3":""
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Xen",
-    "KUVA":"xennormaali.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Troopperi",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":6,
+    "HINTA":"0",
+    "TEKSTI":"[A] 1E"
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Xen",
-    "KUVA":"xenhyvä.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Tronie",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":4,
+    "HINTA":"1",
+    "TEKSTI":"Hahmo tai apuri +2PS tai merellä +3PS"
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Xen",
-    "KUVA":"xenhuono.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Pongu",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"Hahmo tai apuri +XPS. X on tällä vuorolla saatu E-vahinko."
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Saraji",
-    "KUVA":"sarajinormaali.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Amaatit",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"X",
+    "TEKSTI":"Valitse X: [], A: 1E, oma seikkailijasi +1E, oma seikkailija +1PS, vaihda kahden oman seikkailijan paikkaa, 3-4-5-6 L: 2E, [X] vastustajan kädestä, "
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Saraji",
-    "KUVA":"sarajihyvä.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Arkkiagentti",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"Katso vastustajan käsi. X[X], X[]"
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Saraji",
-    "KUVA":"sarajihuono.png",
-    "TERVEYS":"7",
-    "PSYYKE":"4",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Ternok ja Ontor",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"2",
+    "TEKSTI":"X[] X on pöydässä oleviin hahmoihisi ja apureihisi kiinnitettyjen kulkuneuvojen määrä."
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Dox",
-    "KUVA":"doxnormaali.png",
-    "TERVEYS":"???",
-    "PSYYKE":"???",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Walsinats",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"Hahmo tai apuri jolla on kulkuneuvo +2PS"
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Dox",
-    "KUVA":"doxhyvä.png",
-    "TERVEYS":"",
-    "PSYYKE":"",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Arkistomaakarit",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"2",
+    "TEKSTI":"Etsi pakastasi kortti. Sekoita pakkasi."
   },
   {
-    "TYYPPI":"Hahmo",
-    "NIMI":"Dox",
-    "KUVA":"doxhuono.png",
-    "TERVEYS":"",
-    "PSYYKE":"",
-    "TEKSTI":"",
-    "KYKY1 NIMI":"",
-    "KYKY1":"",
-    "KYKY2 NIMI":"",
-    "KYKY2":"",
-    "KYKY3 NIMI":"",
-    "KYKY3":""
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Kupe",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":3,
+    "HINTA":"0",
+    "TEKSTI":"Poista tukikohtalaiseltasi 2 E- ja PS-muutosta."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Sadje",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":3,
+    "HINTA":"2",
+    "TEKSTI":"Estsi pakastasi hahmo tai apuri. +1N. Sekoita pakkasi."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Sulfrey",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Etsi pakastasi hahmo tai apuri. Sekoita pakkasi."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Gekko",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":null,
+    "HINTA":"0",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Enki",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"2",
+    "TEKSTI":"Ohjaa seikkailijaasi kohdistettu vaikutus toiseen seikkailijaasi. A: 1E 4-5 []"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Leiter",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"Ohjaa seikkailijaasi kohdistettu vaikutus toiseen seikkailijaasi. 4-5 []"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Tedni",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"2",
+    "TEKSTI":"Ohjaa seikkailijaasi kohdistettu vaikutus toiseen seikkailijaasi. Etsi pakastasi hahmo tai liittolainen ja nosta se käteesi. Sekoita pakkasi. 4-5 []"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Iniko",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Valitse poistopakastasi kortti ja nosta se käteesi. Et saa nostaa paikkaa tai toista Inikoa."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Metrojääkärit",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"2",
+    "TEKSTI":"Valitse poistopakastasi (1-2-3) 2 korttia, (4-5-6) 3 korttia, nosta yksi niistä käteesi ja tee lopuista apureita. Et saa nostaa paikkaa tai toisia Metrojääkäreitä."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Takomolaiset",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"Etsi pakasta ase, esine tai kulkuneuvo. Sekoita pakka."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Suuri taivaallinen sotajoukko",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":3,
+    "HINTA":"4",
+    "TEKSTI":"Tapa X seikkailevaa apuriasi. Tee niiden tilalle pakkasi päällimäisistä korteista uudet apurit. Saat kehittää uusia apureitasi. XN"
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Upseeriklubin antimet",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":2,
+    "HINTA":"3",
+    "TEKSTI":"Tukikohtalaisesi +XPS. X on apuriesi määrä."
+  },
+  {
+    "TYYPPI":"Ase/Esine",
+    "NIMI":"Soturimunkin sauva",
+    "KUVA":"",
+    "TAUSTA":"ase_esine.png",
+    "MÄÄRÄ":null,
+    "HINTA":"1",
+    "TEKSTI":"Jokaisella aktiivisella kyvylläsi on ominaisuus: 4-5-6 +1N"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Tyttötahu",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"Valitse kaksi seikkailijaa. Kun toinen niistä saa tämän vuoron aikana E- tai PS-vahinkoa, toinen saa yhden PS-vahingon."
+  },
+  {
+    "TYYPPI":"Liittolainen/Esine",
+    "NIMI":"Harmaa Aine",
+    "KUVA":"",
+    "TAUSTA":"esine_liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"Torju kaikki hahmoon tai apuriin tuleva E- ja PS-vahinko tällä vuorolla. Kohde -2PS"
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Oranssi läpinäkyvä moottorisaha",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Pelatessa: +1PS. [L]+1E"
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Domekin hattu",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":1,
+    "HINTA":"0",
+    "TEKSTI":"Domekin psyyke +2. Jos pelataan samalla vuorolla Domekin kanssa, psyyke +4."
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Huivi",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":3,
+    "HINTA":"0",
+    "TEKSTI":"Domekin psyyke +2. "
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Cordak",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":3,
+    "HINTA":"2",
+    "TEKSTI":" +A: tee ylimääräinen 1E-vahinko valitsemaasi hahmoon tai apuriin, kehen kykenisit osumaan. Uudestaan, jos 5-6"
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Nazorak-kivääri",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":" +A: jos apurilla: +1E tai jos hahmolla: 3-4-5-6 +1E"
+  },
+  {
+    "TYYPPI":"Ase/Esine",
+    "NIMI":"Vaahtosammutin",
+    "KUVA":"",
+    "TAUSTA":"ase_esine.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"[X] E-vahinko +1"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Niddi ",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"0",
+    "TEKSTI":"Pelaa apurina. Jos apuriin vaikutetaan, voit paljastaa kortin Niddiksi. Voit pelata 3 korttia maksutta Turkasena. Niddi ei jää pöytään."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Dinem",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":4,
+    "HINTA":"2",
+    "TEKSTI":"Seikkailija +2PS tai jos samaan seikkailijaan kohdistetaan samalla vuorolla monta Dinemiä, seikkailija -XPS, jossa X on pelattujen Dinemien määrä."
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Tankki",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"Maksimi-E +2. Luo tai kehitä apuri pakan päällimmäisestä kortista."
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Kane-Ra",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Kaikissa iskuissa on ominaisuus: 4-5-6, []"
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Lohrak",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Kerran vaikutuksen aikana: [X], väistä 1 E tai PS"
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Nöpö-kävelijä",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Maksimi-E +3."
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Nazorak-pistin",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":" +A: 2-3-4-5-6 +1E tai jos apurilla 2-3 +1E 4-5-6 +2E"
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Hydraulinen vapaus",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":1,
+    "HINTA":"2",
+    "TEKSTI":"Ohjaajan maksimi-E +4. Kaikissa aktiivisissa kyvyissä on ominaisuus: 4-5-6, []. Tuhoutuessa kaikki vastapelaajat: [][], tuhoaja +[]"
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Tahtorak",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":1,
+    "HINTA":"2",
+    "TEKSTI":"Ohjaajan ruudussa voi olla toinen hahmo tai apuri. Kohdista vaikutukset molempiin. Ohjaajan maksimi-E +5. Tuhoutuessa jaa omiin seikkailijoihin 4E-vahinkoa ja tuhoa \"ylimääräinen\" hahmo ta apuri."
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Toranga",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo.png",
+    "MÄÄRÄ":1,
+    "HINTA":"2",
+    "TEKSTI":"Ohjaajan maksimi-E +4. 4-5-6 tai [X]: Väistä 1 E- tai PS-vahinko. Ohjaaja voi käyttää vain O- ja [H]-kykyjä. "
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Tohtori 006",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"2",
+    "TEKSTI":"Poista tukikohtalaiseltasi 2 E- ja PS-muutosta. Kehitä kahdella pakkasi päällimmäisellä kortilla apureita."
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Skakdien sotavasara",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":" +A: 3-4-5-6+1E, ja jos heitto oli 4-5-6, poista sattumanvaraisesti  kohdepelaajalta käsikortti"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Isä Bartaxin petos",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"Kohdepelaaja jakaa seikkailijoihinsa vuorolla saadun N-pisteiden verran E- ja PS-vahinkoa."
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Itrozin muistiinpanot",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"2-3-4 1N, 5-6 2N"
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Arupakin kello",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":1,
+    "HINTA":"1",
+    "TEKSTI":"Kiinnitä hahmoon. Hahmollasi on seuraava aktiivinen kyky: H: lisää viisarimittariin 1. Kun viisarimittari on 3, saat seuraavan Nimdan sirun. N-pistelaskurisi ei nollaudu kyseisen sirun saamisesta."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Hildemar",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"[A] 1E tai merellä [H] 3E"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Jardirt",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":" +1N, tai jos merellä +3N"
+  },
+  {
+    "TYYPPI":"Liittolainen/Kulkuneuvo",
+    "NIMI":"Merimetso",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo_liittolainen.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"Jokaisella aktiivisella kyvylläsi on ominaisuus: 4-5-6 +1N"
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Ionikatana",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":" +L: 1E, vastustamaton"
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Turkanen",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"Kohdeseikkailija -1E tai jos kohteella on kulkuneuvo joka lisää elämää: kohdeseikkailija -2E tai jos kohteella on kulkuneuvo, jolla on aktivoitava kyky: se kyky ei toimi kierroksen aikana"
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Propagandaisku",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Tämän vuoron ajan: Aina kun apurisi tekevät E-vahinkoa: 3-4-5-6, ne tekevät yhden E-vahingon lisää. Voit käyttää tällä vuorolla pelaamiesi apureiden aktiivisia kykyjä."
+  },
+  {
+    "TYYPPI":"Liittolainen/Kulkuneuvo",
+    "NIMI":"Tapiiri",
+    "KUVA":"",
+    "TAUSTA":"ajoneuvo_liittolainen.png",
+    "MÄÄRÄ":1,
+    "HINTA":"1",
+    "TEKSTI":"4-5-6, siirrä ohjaajaan kohdistuva vaikutus toiseen omaan seikkailijaan ja +1PS ohjaajalle."
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Kanoka",
+    "KUVA":"",
+    "TAUSTA":"ase.png",
+    "MÄÄRÄ":2,
+    "HINTA":"1",
+    "TEKSTI":"A: vaihda kahden kohdeseikkailijan paikkaa tai A: kohdeseikkailija -1PS"
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Ustraug-tason valeasu",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":3,
+    "HINTA":"1",
+    "TEKSTI":"Pelaa hahmona. Jos Ustraugiin vaikutetaan, tai vapaaehtoisesti tulevilla vuoroilla, voit korvata Ustraugin hahmolla, apurilla tai liittolaisella."
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Sienisoppa",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":3,
+    "HINTA":"0",
+    "TEKSTI":"Oma seikkailijasi: +2E, -1PS"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Äksä",
+    "KUVA":"",
+    "TAUSTA":"liittolainen.png",
+    "MÄÄRÄ":3,
+    "HINTA":"2",
+    "TEKSTI":"Etsi pakastasi paikkakortti."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Nazorakien tunnelit",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Apurit tekevät yhden E-vahingon enemmän."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Zyglakien järvileiri",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Lasketaan mereksi. Aina kun seikkailija tekee jotakin, -1PS"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Zaiggeran mökki",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Kenraalinsatama",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Lasketaan mereksi. Pelatessa: kaikki kehittävät apurin."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Nimdan temppeli",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa: vuorojärjestyksessä, pelaajasta alkaen: pelaajat voivat laskea hahmonsa mielentilaa ja saada 3N"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Xian tehtaat",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa: kaikki pelajaat etsivät pakastaan aseen. Sekoita pakkasi."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Kahvio",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa ja vuoron alussa: Etsi pakasta liittolaiskortti."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Ämkoo-vuori",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Joka vuoro: Heitä noppaa. Jos 1, yksi hahmoista ja apureistasi kuolee. Jos 6, []"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Ath-Koro",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Joka vuoron alussa ja pelatessa: +1N"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Kummitusten suo",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kukaan ei voi liikkua."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Lehu-metsä",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Seikkailijoille ei voi pelata kulkuneuvo-, ase- tai esinekortteja."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Naamapalmujen metsä",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Aina kun seikkailija tekee jotakin: -1E"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Ortonien tunnelit",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Aina kun etsisit pakastasi kortteja, voit etsiä niitä sen sijaan poistopakastasi."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Pieni kivinen luoto",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Lasketaan mereksi."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Arkkienkelin musta sydän",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kaikkien hahmojen, joilla on siru, iskut tekevät 2PS-vahinkoa."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Meri",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":3,
+    "HINTA":"",
+    "TEKSTI":"Et saa pelatessa N-pistettä."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Nui-Koro",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Vuoron alussa ja pelatessa: []"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Karaokesaari merellä",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Lasketaan mereksi. Joka vuoro: Yksi hahmo tai apuri -1PS, []"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Klaanin kaupunki",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Liittolaisten hinta on 1 vähemmän."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Atheonistien kaupunki",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Aina kun saat N-pisteitä, jaa -1PS seikkailijoidesi kesken."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Telakka",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kulkuneuvojen hinta on 1 vähemmän."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Veljeskunnan saari",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kaikki pelaajat voivat ohjata seikkailijoihinsa kohdistuvat vaikutukset toisiin seikkailijoihinsa. Tämä ominaisuus ei ole voimassa sillä vuorolla, jolla Veljeskunnan saari pelataan."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Aft-Amana",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kaikki hahmot, joilla on Nimdan siru: -2PS. Nimda-korttien vaikutukset ovat kaksinkertaiset."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Trem Kromin taukopaikka",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa: kaikki pelaajat jakavat seikkailijoilleen +1E ja +1PS."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Baiunuvan parantolat",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa ja vuoron alussa: oma seikkailija -1PS ja toinen oma seikkailija +1PS."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Pohjoiskaira",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa: Kaikki pelaajat [X]"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Vuoritukikohta",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa: kaikki apurit +2PS"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Sairaalasiipi",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kaikkien hahmojen ja apurien positiivinen E- ja PS-muutos toimii kaksinkertaisesti."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Kaya-Wahi",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Pelatessa: kaikki pelaajat jakavat seikkailijoilleen -3PS"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"XMS Donovan",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Lasketaan mereksi. Pelatessa ja vuoron alussa: voit heittää kätesi poistopakkaan. 1-2-3, []. 4-5-6 [][][][]"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Nascosto",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Voit pelata esineitä myös vastapelaajien vuoroilla ja vastaiskuina."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Ruki-Koron apajamarkkinat",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Kaikki kortit, joissa mainitaan meri (paikat jotka lasketaan mereksi ja kortit jotka toimivat paremmin merellä) voi heittää poistopakkaan: [][]"
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"Pimeä huone",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Nosta välittömästi kaksi ylimääräistä tapahtumaa. Kortin pelannut pelaaja saa heittää noppaa: 6 hän voi estää toista tapahtumaa tapahtumasta."
+  },
+  {
+    "TYYPPI":"Paikka",
+    "NIMI":"SS Rautasiipi",
+    "KUVA":"",
+    "TAUSTA":"paikka.png",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":"Et saa pelatessa N-pistettä. Lasketaan mereksi. Pelatessa: kaikki pelaajat paljastavat kätensä ja poistavat yhden paikkakortin."
+  },
+  {
+    "TYYPPI":"",
+    "NIMI":"",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Zamor kk",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"0",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Harkel",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Nautilda ja Tyrskynratsastajat",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"1",
+    "TEKSTI":"[A] 1E tai merellä [H] 3E"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Lappalaiset",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Bakmei",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Bob",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":1,
+    "HINTA":"0",
+    "TEKSTI":"Korjaa katon :)"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Verstaan aave",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"",
+    "NIMI":"Valvoja",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Oliollin unhoitus",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Jänö",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Ritari",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"",
+    "NIMI":"Profeetan mehuhetki",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Profetia Profeetasta",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Creedy",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Lähetti",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Cody",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"1",
+    "TEKSTI":"Etsi pakastasi ase. Jos sen hinta on 2 tai enemmän, anna seikkailijallesi +1PS"
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Svarle",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Esine",
+    "NIMI":"Suojakenttägeneraattori",
+    "KUVA":"",
+    "TAUSTA":"esine.png",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Buginoid",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"2",
+    "TEKSTI":"Etsi kohdevastapelaajasi pakasta ase, esine tai kulkuneuvo ja ota se käteesi ja vastustaja sekoittaa pakkansa tai ota kohdeseikkailijaan kiinnitetty ase, esine tai kulkuneuvo ja ota se käteesi. "
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Peelo",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Garson",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":2,
+    "HINTA":"2???",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Ase/Esine",
+    "NIMI":"Biljardikuula",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Alku",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Ase",
+    "NIMI":"Taivaspiraattien kaktuspommi",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":2,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Bloszard",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"",
+    "NIMI":"Zaiggera",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":2,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Kirikori II",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Kulkuneuvo",
+    "NIMI":"Ilmaraptori",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Numerosarja",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":"Kiinnitä seikkailijaan. Kuka tahansa voi kiinnittää siihen kortteja. Hahmo ei voi tehdä mitään ennen kuin kolme korttia on kiinnitetty. Joka kierroksen lopussa kiinnitä 1 kortti kohdepelaajan pakan päältä."
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Torakkakuningatar",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":1,
+    "HINTA":"",
+    "TEKSTI":""
+  },
+  {
+    "TYYPPI":"Liittolainen",
+    "NIMI":"Ylim. ylil. ass",
+    "KUVA":"",
+    "TAUSTA":"",
+    "MÄÄRÄ":null,
+    "HINTA":"",
+    "TEKSTI":"L: 2E tai L: "
   }
 ]

@@ -1,6 +1,11 @@
 @font-face {
-    font-family: textbody;
+    font-family: texttitle;
     src: url(fonts/Electrolize-Regular.ttf);
+}
+
+@font-face {
+    font-family: textbody;
+    src: url(fonts/RobotoSlab-Regular.ttf);
 }
 
 body {
@@ -16,24 +21,82 @@ body {
 }
 
 h1 {
-    font-size: 165%;
-    font-weight: bold;
-    font-family: textbody;
+    font-size: 125%;
+    font-family: texttitle;
+    font-weight: 500;
     color: #FFFFFF;
     word-wrap: break-word;
     text-transform: uppercase;
 }
 
+p {
+    font-family: textbody;
+    font-size: 90%;
+    line-height: 120%;
+    margin-top: 0mm;
+    margin-bottom: 1.5mm;
+}
+
 .title {
-    width: 62mm;
-    height: 15mm;
+    width: 61mm;
+    height: 9mm;
 
     position: relative;
     text-align: right;
-    top: 6.5mm;
+    top: 5.7mm;
 
     display: table-cell;
     vertical-align: middle;
+}
+
+.stats {
+    position: relative;
+}
+
+.statTerveys {
+    color: #dd9494;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 150%;
+
+    position: absolute;
+    text-align: center;
+    left: 9.5mm;
+    top: 0mm;
+
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.statPsyyke {
+    color: #94b3dd;
+    font-family: "Courier New";
+    font-weight: bold;
+    font-size: 150%;
+
+    position: absolute;
+    text-align: center;
+    left: 9.5mm;
+    top: 8.6mm;
+
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.statTwoNumbers {
+    left: 8.5mm;
+}
+
+.statThreeNumbersTerveys {
+    left: 8.2mm;
+    top: 0.5mm;
+    font-size: 100%;
+}
+
+.statThreeNumbersPsyyke {
+    left: 8.2mm;
+    top: 9.5mm;
+    font-size: 100%;
 }
 
 .cardbase {
@@ -50,18 +113,27 @@ h1 {
     position: relative;
     top: 5.5mm;
     left: 6mm;
-    
+
     width: 49mm;
-    
+
     padding: 2mm;
-    
+
     word-wrap: break-word;
-    
+
     display: table-cell;
     vertical-align: middle;
 }
 
-.cardimage {
+.cardimageCharacter {
+    position: relative;
+    top: 3.15mm;
+    left: 15.9mm;
+
+    width: 48mm;
+    height: 34.1mm;
+}
+
+.cardimageOther {
     position: relative;
     top: 3.65mm;
     left: 16mm;
