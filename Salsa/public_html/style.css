@@ -77,10 +77,23 @@ p {
     vertical-align: middle;
 }
 
+.eventtitle {
+    width: 51mm;
+    height: 8.4mm;
+
+    position: relative;
+    text-align: middle;
+    left: 13.5mm;
+    top: 9.5mm;
+
+    display: table-cell;
+    vertical-align: middle;
+}
+
 .price {
     position: absolute;
     text-align: center;
-    
+
     left: 51.3mm;
     top: 81mm;
 
@@ -146,7 +159,7 @@ p {
     background-color: #C0C0C0;
 
     position: relative;
-    
+
     font-size: 75%;
 }
 
@@ -218,20 +231,20 @@ p {
 
 .cardimageTapahtuma {
     position: relative;
-    top: 10.7mm;
-    left: 11mm;
+    top: 11.2mm;
+    left: 11.15mm;
 
-    width: 48mm;
+    width: 47.8mm;
     height: 34.1mm;
 }
 
 .rotate {
     margin: 0px;
-    
+
     position: relative;
     left: 10.2mm;
     top: -10mm;
-    
+
     -webkit-transform: rotate(-90deg);
     transform: rotate(-90deg);
 }
@@ -241,9 +254,9 @@ p {
     margin-right: auto;
     text-align: center;
     padding: 0px;
-    
+
     position: relative;
-    
+
     top: -4.5mm;
     left: -24mm;
 }
@@ -253,15 +266,31 @@ p {
     margin-right: auto;
     text-align: center;
     padding: 0px;
-    
+
+    position: relative;
+
+    color: #FFFFFF;
+
+    top: -5mm;
+    left: -28mm;
+    font-size: 80%;
+
+    height: 20mm;
+    width: 75mm;
+}
+
+.eventtext {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 0px;
+
     position: relative;
     
     color: #FFFFFF;
     
-    top: -5mm;
-    left: -28mm;
-    font-size: 80%;
-    
+    top: 16mm;
+    left: 0mm;
     height: 20mm;
-    width: 75mm;
+    width: 35mm;
 }
