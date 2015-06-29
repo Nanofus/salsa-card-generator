@@ -3,5 +3,6 @@ Salsa.controller('MainController', ['$scope', '$http', function ($scope, $http) 
 
         $http.get('data.json').success(function (response) {
             $scope.cards = response;
+
         });
     }]);

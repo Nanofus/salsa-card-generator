@@ -29,6 +29,33 @@ h1 {
     text-transform: uppercase;
 }
 
+h2 {
+    position: relative;
+    top: 1.3mm;
+    font-size: 150%;
+    font-family: texttitle;
+    font-weight: 500;
+    color: #FFFFFF;
+    word-wrap: break-word;
+    text-transform: uppercase;
+
+    margin: 0px;
+
+    height: 9mm;
+}
+
+h3 {
+    font-size: 200%;
+    font-family: texttitle;
+    font-weight: 500;
+    color: #FFFFFF;
+
+    width: 15mm;
+    height: 15mm;
+    margin: 0px;
+    padding: 0px;
+}
+
 p {
     font-family: textbody;
     font-size: 90%;
@@ -38,15 +65,27 @@ p {
 }
 
 .title {
-    width: 61mm;
+    width: 51mm;
     height: 9mm;
 
     position: relative;
     text-align: right;
+    left: 10mm;
     top: 5.7mm;
 
     display: table-cell;
     vertical-align: middle;
+}
+
+.price {
+    position: absolute;
+    text-align: center;
+    
+    left: 51.3mm;
+    top: 81mm;
+
+    width: 15mm;
+    height: 15mm;
 }
 
 .stats {
@@ -84,7 +123,7 @@ p {
 }
 
 .statTwoNumbers {
-    left: 8.5mm;
+    left: 8.3mm;
 }
 
 .statThreeNumbersTerveys {
@@ -106,13 +145,14 @@ p {
     background-size: 2.74in 3.74in;
     background-color: #C0C0C0;
 
+    position: relative;
+    
     font-size: 75%;
 }
 
 .text {
     position: relative;
-    top: 5.5mm;
-    left: 6mm;
+    left: 5.5mm;
 
     width: 49mm;
 
@@ -124,9 +164,25 @@ p {
     vertical-align: middle;
 }
 
-.cardimageCharacter {
+.charactertext {
+    top: 38.5mm;
+}
+
+.othertext {
+    top: 46mm;
+}
+
+.nimdatext {
+    top: 42mm;
+}
+
+.image {
     position: relative;
-    top: 3.15mm;
+}
+
+.cardimageCharacter {
+    position: absolute;
+    top: 3.25mm;
     left: 15.9mm;
 
     width: 48mm;
@@ -134,10 +190,78 @@ p {
 }
 
 .cardimageOther {
-    position: relative;
-    top: 3.65mm;
+    position: absolute;
+    top: 9.6mm;
     left: 16mm;
 
     width: 48mm;
     height: 34.1mm;
+}
+
+.cardimageNimda {
+    position: absolute;
+    top: 5.9mm;
+    left: 16mm;
+
+    width: 48mm;
+    height: 34.1mm;
+}
+
+.cardimagePaikka {
+    position: relative;
+    top: -6.9mm;
+    left: -30.4mm;
+
+    width: 80.7mm;
+    height: 36.6mm;
+}
+
+.cardimageTapahtuma {
+    position: relative;
+    top: 10.7mm;
+    left: 11mm;
+
+    width: 48mm;
+    height: 34.1mm;
+}
+
+.rotate {
+    margin: 0px;
+    
+    position: relative;
+    left: 10.2mm;
+    top: -10mm;
+    
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+}
+
+.rotatedtitle {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 0px;
+    
+    position: relative;
+    
+    top: -4.5mm;
+    left: -24mm;
+}
+
+.rotatedtext {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    padding: 0px;
+    
+    position: relative;
+    
+    color: #FFFFFF;
+    
+    top: -5mm;
+    left: -28mm;
+    font-size: 80%;
+    
+    height: 20mm;
+    width: 75mm;
 }
