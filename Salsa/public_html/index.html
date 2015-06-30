@@ -14,25 +14,29 @@
                 <div ng-if="card.PAALUOKKA !== 'Paikka' && card.PAALUOKKA !== 'Tapahtuma'">
                     <div class="title">
                         <div ng-show="card.PAALUOKKA === 'Hahmo'"> 
-                            <h1 ng-show="card.KUVA !== 'jäätutkijanormaali.png'">{{card.NIMI}}</h1>
-                            <h1 ng-show="card.KUVA === 'jäätutkijanormaali.png'" style="color: black">{{card.NIMI}}</h1>
+                            <h1 ng-show="card.KUVA !== 'jäätutkijanormaali.png' && card.NIMI.length < 19">{{card.NIMI}}</h1>
+                            <h1 ng-show="card.KUVA === 'jäätutkijanormaali.png' && card.NIMI.length < 19" style="color: black">{{card.NIMI}}</h1>
+                            <h1 ng-show="card.KUVA !== 'jäätutkijanormaali.png' && card.NIMI.length >= 19" style="font-size: 80%">{{card.NIMI}}</h1>
                         </div>
                         <div ng-show="card.PAALUOKKA !== 'Hahmo' && card.PAALUOKKA !== 'Nimda'"> 
                             <h2>{{card.NIMI}}</h2>
                         </div>
                     </div>
                     <div class="stats">
-                        <p class="statTerveys" ng-show="card.NIMI !== 'Keetongu' && card.NIMI !== 'Purifier'">{{card.TERVEYS}}</p>
-                        <p class="statTerveys statTwoNumbers" ng-show="card.NIMI === 'Keetongu'">{{card.TERVEYS}}</p>
-                        <p class="statTerveys statThreeNumbersTerveys" ng-show="card.NIMI === 'Purifier'">{{card.TERVEYS}}</p>
-                        <p class="statPsyyke" ng-show="card.NIMI !== 'Purifier'">{{card.PSYYKE}}</p>
-                        <p class="statPsyyke statThreeNumbersPsyyke" ng-show="card.NIMI === 'Purifier'">{{card.TERVEYS}}</p>
+                        <p class="statTerveys" ng-show="card.TERVEYS.length === 1">{{card.TERVEYS}}</p>
+                        <p class="statTerveys statTwoNumbersTerveys" ng-show="card.TERVEYS.length === 2">{{card.TERVEYS}}</p>
+                        <p class="statTerveys statThreeNumbersTerveys" ng-show="card.TERVEYS.length === 3">{{card.TERVEYS}}</p>
+                        <p class="statPsyyke" ng-show="card.PSYYKE.length === 1">{{card.PSYYKE}}</p>
+                        <p class="statPsyyke statTwoNumbersPsyyke" ng-show="card.PSYYKE.length === 2">{{card.PSYYKE}}</p>
+                        <p class="statPsyyke statThreeNumbersPsyyke" ng-show="card.PSYYKE.length === 3">{{card.PSYYKE}}</p>
                     </div>
                     <div class="image">
                         <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageCharacter" ng-show="card.PAALUOKKA === 'Hahmo'">
                         <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageNimda" ng-show="card.PAALUOKKA === 'Nimda'">
                         <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageOther" ng-show="card.PAALUOKKA !== 'Hahmo' && card.PAALUOKKA !== 'Nimda'">
                     </div>
+                    <img ng-show="card.PAALUOKKA !== 'Hahmo'" ng-src="images/icons/set{{card.SET}}.png" class="seticon" alt="seticon">
+                    <img ng-show="card.PAALUOKKA === 'Hahmo'" ng-src="images/icons/set{{card.SET}}.png" class="seticonchar" alt="seticon">
                     <div class="text charactertext" ng-show="card.PAALUOKKA === 'Hahmo'">
                         <div class="rulestext">
                             <p>{{card.TEKSTI}}</p>
@@ -70,13 +74,18 @@
                     <h2 class="rotatedtitle">{{card.NIMI}}</h2>
                     <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimagePaikka">
                     <p class="rotatedtext">{{card.TEKSTI}}</p>
+                    <img class="formations" ng-show="card.RUUDUT !== ''" ng-src="images/formations/{{card.RUUDUT}}.png">
+                    <img ng-src="images/icons/set{{card.SET}}.png" class="rotatedseticon" alt="seticon">
                     <div class="rotatedbottomtext">
                         <p>{{card.ID}}/{{card.CARDS}} | <img class="rotatedpen" src="images/icons/kyna.png"> {{card.TAITEILIJA}} | {{version}}</p>
                     </div>
                 </div>
                 <div ng-if="card.PAALUOKKA === 'Tapahtuma'">
-                    <h2 class="eventtitle">{{card.NIMI}}</h2>
+                    <h2 class="eventtitle" ng-show="card.NIMI.length < 20">{{card.NIMI}}</h2>
+                    <h2 class="eventtitle" ng-show="card.NIMI.length >= 20" style="font-size: 110%">{{card.NIMI}}</h2>
+                    
                     <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageTapahtuma">
+                    <img ng-src="images/icons/set{{card.SET}}.png" class="seticon" alt="seticon">
                     <p class="eventtext">{{card.TEKSTI}}</p>
                     <div class="bottomtext">
                         <p>{{card.ID}}/{{card.CARDS}} | <img class="pen" src="images/icons/kyna.png"> {{card.TAITEILIJA}} | {{version}}</p>

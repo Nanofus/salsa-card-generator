@@ -82,9 +82,9 @@ p {
     height: 8.4mm;
 
     position: relative;
-    text-align: middle;
-    left: 13.5mm;
-    top: 9.5mm;
+    text-align: center;
+    left: 10mm;
+    top: 8.5mm;
 
     display: table-cell;
     vertical-align: middle;
@@ -135,8 +135,13 @@ p {
     vertical-align: middle;
 }
 
-.statTwoNumbers {
+.statTwoNumbersTerveys {
     left: 8.3mm;
+}
+
+.statTwoNumbersPsyyke {
+    left: 8.3mm;
+    top: 8.6mm;
 }
 
 .statThreeNumbersTerveys {
@@ -230,12 +235,19 @@ p {
 }
 
 .cardimageTapahtuma {
-    position: relative;
-    top: 11.2mm;
+    position: absolute;
+    top: 19.7mm;
     left: 11.15mm;
 
     width: 47.8mm;
     height: 34.1mm;
+}
+
+.formations {
+    position: absolute;
+    top: 21mm;
+    left: -29mm;
+    width: 15%;
 }
 
 .rotate {
@@ -285,12 +297,12 @@ p {
     text-align: center;
     padding: 0px;
 
-    position: relative;
-    
+    position: absolute;
+
     color: #FFFFFF;
-    
-    top: 16mm;
-    left: 0mm;
+
+    top: 58mm;
+    left: 18mm;
     height: 20mm;
     width: 35mm;
 }
@@ -331,4 +343,23 @@ p {
     top: -5.5mm;
     width: 54mm;
     height: 54mm;
+}
+
+.seticon {
+    position: absolute;
+    left: 58.5mm;
+    top: 54mm;
+    width: 8%;
+}
+.seticonchar {
+    position: absolute;
+    left: 58.5mm;
+    top: 47.5mm;
+    width: 8%;
+}
+.rotatedseticon {
+    position: absolute;
+    left: 47mm;
+    top: 47mm;
+    width: 6%;
 }
