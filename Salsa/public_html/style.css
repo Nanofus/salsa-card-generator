@@ -324,3 +324,11 @@ p {
     left: -30mm;
     opacity: 0.6;
 }
+
+.musta {
+    position: absolute;
+    left: -17mm;
+    top: -5.5mm;
+    width: 54mm;
+    height: 54mm;
+}

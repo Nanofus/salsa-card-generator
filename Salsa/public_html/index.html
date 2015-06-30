@@ -66,6 +66,7 @@
                     </div>
                 </div>
                 <div class="rotate" ng-if="card.PAALUOKKA === 'Paikka'">
+                    <img src="images/musta.png" class="musta" alt="musta" ng-show="card.NIMI === 'Lopputaistelu'">
                     <h2 class="rotatedtitle">{{card.NIMI}}</h2>
                     <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimagePaikka">
                     <p class="rotatedtext">{{card.TEKSTI}}</p>
