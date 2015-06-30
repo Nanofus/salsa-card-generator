@@ -14,8 +14,8 @@
                 <div ng-if="card.PAALUOKKA !== 'Paikka' && card.PAALUOKKA !== 'Tapahtuma'">
                     <div class="title">
                         <div ng-show="card.PAALUOKKA === 'Hahmo'"> 
-                            <h1 ng-show="card.KUVA !== 'jäätutkijahyvä.png'">{{card.NIMI}}</h1>
-                            <h1 ng-show="card.KUVA === 'jäätutkijahyvä.png'" style="color: black">{{card.NIMI}}</h1>
+                            <h1 ng-show="card.KUVA !== 'jäätutkijanormaali.png'">{{card.NIMI}}</h1>
+                            <h1 ng-show="card.KUVA === 'jäätutkijanormaali.png'" style="color: black">{{card.NIMI}}</h1>
                         </div>
                         <div ng-show="card.PAALUOKKA !== 'Hahmo' && card.PAALUOKKA !== 'Nimda'"> 
                             <h2>{{card.NIMI}}</h2>
@@ -60,16 +60,26 @@
                     <div class="price" ng-show="card.PAALUOKKA === 'Muu'">
                         <h3>{{card.HINTA}}</h3>
                     </div>
+                    <div class="bottomtext">
+                        <p ng-show="card.KUVA !== 'jäätutkijanormaali.png'">{{card.ID}}/{{card.CARDS}} | <img class="pen" src="images/icons/kyna.png"> {{card.TAITEILIJA}} | {{version}}</p>
+                        <p ng-show="card.KUVA === 'jäätutkijanormaali.png'" style="color: black">{{card.ID}}/{{card.CARDS}} | <img class="pen" src="images/icons/kyna2.png"> {{card.TAITEILIJA}} | {{version}}</p>
+                    </div>
                 </div>
                 <div class="rotate" ng-if="card.PAALUOKKA === 'Paikka'">
                     <h2 class="rotatedtitle">{{card.NIMI}}</h2>
                     <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimagePaikka">
                     <p class="rotatedtext">{{card.TEKSTI}}</p>
+                    <div class="rotatedbottomtext">
+                        <p>{{card.ID}}/{{card.CARDS}} | <img class="rotatedpen" src="images/icons/kyna.png"> {{card.TAITEILIJA}} | {{version}}</p>
+                    </div>
                 </div>
                 <div ng-if="card.PAALUOKKA === 'Tapahtuma'">
                     <h2 class="eventtitle">{{card.NIMI}}</h2>
                     <img ng-src="images/{{card.KUVA}}" alt="[KUVA]" class="cardimageTapahtuma">
                     <p class="eventtext">{{card.TEKSTI}}</p>
+                    <div class="bottomtext">
+                        <p>{{card.ID}}/{{card.CARDS}} | <img class="pen" src="images/icons/kyna.png"> {{card.TAITEILIJA}} | {{version}}</p>
+                    </div>
                 </div>
             </div>
         </div>

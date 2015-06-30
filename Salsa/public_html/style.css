@@ -71,7 +71,7 @@ p {
     position: relative;
     text-align: right;
     left: 10mm;
-    top: 5.7mm;
+    top: 5.9mm;
 
     display: table-cell;
     vertical-align: middle;
@@ -293,4 +293,34 @@ p {
     left: 0mm;
     height: 20mm;
     width: 35mm;
+}
+
+.pen {
+    width: 3.3mm;
+    height: 2.2mm;
+}
+
+.rotatedpen {
+    width: 3mm;
+    height: 2mm;
+}
+
+.bottomtext {
+    position: absolute;
+    font-family: textbody;
+    font-size: 90%;
+    color: white;
+    top: 86.5mm;
+    left: 10mm;
+    opacity: 0.8;
+}
+
+.rotatedbottomtext {
+    position: absolute;
+    font-family: textbody;
+    font-size: 80%;
+    color: white;
+    top: 49mm;
+    left: -30mm;
+    opacity: 0.6;
 }
